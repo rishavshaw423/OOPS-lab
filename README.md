@@ -1,4 +1,4 @@
-# OOP Laboratory - Lab 1 (C Programming Revision)
+# OOP Lab
 
 This repository contains the solutions for **Lab 1: C Programming Revision** of the **Object Oriented Programming Laboratory**.
 
